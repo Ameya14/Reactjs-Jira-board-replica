@@ -1,0 +1,12 @@
+.cardRoot {
+    max-width: 345;
+    margin: 10px;
+    border: 1px solid lightgrey;
+    text-align: left;
+}
+
+.cardRoot:hover {
+    box-shadow: 5px 3px 8px 0px grey;
+    cursor: pointer;
+    background-color: #d3d3d32b;
+}

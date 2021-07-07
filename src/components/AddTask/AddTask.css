@@ -1,0 +1,27 @@
+.form {
+    margin: 20px
+}
+
+.formButton {
+    margin: 0 20px
+}
+
+.wrapper {
+    padding: 15px 25px;
+}
+
+.pageHeader {
+    margin: 0
+}
+
+input {
+    display: block;
+}
+
+textarea {
+    display: block;
+}
+
+label {
+    display: block;
+}

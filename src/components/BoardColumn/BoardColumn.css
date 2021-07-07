@@ -1,0 +1,67 @@
+.boardColumn {
+    border-radius: 3px;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 10px;
+    text-align: center;
+    background-color: white;
+    min-height: 170px;
+}
+
+.boardColumnTitle {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.grey {
+    border: 1px solid grey;
+}
+
+.blue {
+    border: 1px solid #00bcd4;
+}
+
+.purple {
+    border: 1px solid #9c27b0;
+}
+
+.green {
+    border: 1px solid #4caf50;
+}
+
+.red {
+    border: 1px solid #f44336;
+}
+
+.greyTitle {
+    color: grey;
+    border: 1px solid grey;
+    border-width: 0 0 1px 0;
+}
+
+.blueTitle {
+    color: #00bcd4;
+    border: 1px solid #00bcd4;
+    border-width: 0 0 1px 0;
+}
+
+.purpleTitle {
+    color: #9c27b0;
+    border: 1px solid #9c27b0;
+    border-width: 0 0 1px 0;
+}
+
+.greenTitle {
+    color: #4caf50;
+    border: 1px solid #4caf50;
+    border-width: 0 0 1px 0;
+}
+
+.redTitle {
+    color: #f44336;
+    border: 1px solid #f44336;
+    border-width: 0 0 1px 0;
+}

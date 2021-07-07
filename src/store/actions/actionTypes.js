@@ -1,0 +1,6 @@
+export const ADDTASK = "ADDTASK"
+export const REMOVETASK = "REMOVETASK"
+export const SETTASKLIST = "SETTASKLIST"
+export const FETCHTASKLISTFAILED = "FETCHTASKLISTFAILED"
+export const LOGIN = "LOGIN"
+export const LOGOUT = "LOGOUT"
